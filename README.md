@@ -1,0 +1,2 @@
+# MegaMillions_ML_RidgeRegression_Predictor
+Mega Millions Ridge Regression ML Prediction Model attempt... Use Statistical Data Linear Progression of P(Ball 5; {B1,B2, ..., B5}), P(Mega_Ball), and co-domain mapping of corresponding progression... Do so when weighted for the top 50-60 elements... Bottom 10 are each classified as 'cold numbers' and should be ignored/ neglected, unless other considerations for prediction could be made, based on wheel algorithm 
